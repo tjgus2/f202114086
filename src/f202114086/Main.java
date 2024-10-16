@@ -6,6 +6,8 @@ public class Main {
 	    System.out.println("박서현");
 		World.run();
 		World.run2();
+		Hello.run();
+	
 	  }
 
 	}
